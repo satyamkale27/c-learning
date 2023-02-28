@@ -13,5 +13,8 @@ this is my journy of learning c programming language
  - [ ] constants
  - [ ] geeting user input
  - [ ] building a basic calculator
- 
+ - [ ] Array
+ - [ ] function
+ - [ ] if else statments
+ - [ ] nested if else statments
 
