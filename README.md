@@ -19,3 +19,5 @@ this is my journy of learning c programming language
  - [ ] Advance calculator(project)
  - [ ] switch
  - [ ] structure
+ - [ ] while loop
+ - [ ] dowhile loop
