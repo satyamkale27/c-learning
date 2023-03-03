@@ -18,3 +18,4 @@ this is my journy of learning c programming language
  - [ ] nested if else statments
  - [ ] Advance calculator(project)
  - [ ] switch
+ - [ ] structure
