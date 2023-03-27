@@ -21,3 +21,4 @@ this is my journy of learning c programming language
  - [ ] structure
  - [ ] while loop
  - [ ] dowhile loop
+ - [ ] build a guessing game(project)
