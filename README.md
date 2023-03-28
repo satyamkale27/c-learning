@@ -23,3 +23,4 @@ this is my journy of learning c programming language
  - [ ] dowhile loop
  - [ ] build a guessing game(project)
  - [ ] forloop
+ - [ ] nestedforloop
