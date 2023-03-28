@@ -22,3 +22,4 @@ this is my journy of learning c programming language
  - [ ] while loop
  - [ ] dowhile loop
  - [ ] build a guessing game(project)
+ - [ ] forloop
