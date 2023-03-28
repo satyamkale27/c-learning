@@ -24,3 +24,4 @@ this is my journy of learning c programming language
  - [ ] build a guessing game(project)
  - [ ] forloop
  - [ ] nestedforloop
+ - [ ] memoryadress
