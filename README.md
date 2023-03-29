@@ -25,3 +25,5 @@ this is my journy of learning c programming language
  - [ ] forloop
  - [ ] nestedforloop
  - [ ] memoryadress
+ - [ ] pointers
+ - [ ] derefrencing pointer
