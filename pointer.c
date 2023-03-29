@@ -9,7 +9,12 @@ double * pGpa = &gpa;
 char grade = 'A';
 char * pGrade = &grade;
 
-  printf("%d", pAge);
+  // printf("%p\n", pAge);
+
+// **********************************************************************//
+// (this part contains derefrencing pointer)
+
+printf("%d", *&age);
  
 
 
