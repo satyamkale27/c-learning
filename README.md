@@ -27,3 +27,4 @@ this is my journy of learning c programming language
  - [ ] memoryadress
  - [ ] pointers
  - [ ] derefrencing pointer
+ - [ ] writing and reading files
