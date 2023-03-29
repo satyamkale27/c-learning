@@ -1,0 +1,4 @@
+jim, salesman
+kevin, accountant
+david, software developer
+kelly, customer service
