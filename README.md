@@ -2,8 +2,6 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-this is my journy of learning c programming language
->resources to learn c which i followed in this journy("https://www.youtube.com/watch?v=KJgsSFOSQv0")
 
 ## Online C Compiler:
 Here is a free c compiler available online: https://www.onlinegdb.com/online_c_compiler
@@ -36,6 +34,7 @@ Here is a free c compiler available online: https://www.onlinegdb.com/online_c_c
 
 ## Resource(s) to learn C Language:
 1. [W3 Schools](https://www.w3schools.com/c/index.php)
+2. [freecode camp](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 
 ## Contributors ✨
 
