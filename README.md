@@ -1,9 +1,11 @@
-# learning c journy
+# learning c journey
 this is my journy of learning c programming language
 >resources to learn c which i followed in this journy("https://www.youtube.com/watch?v=KJgsSFOSQv0")
 
+## Online C Compiler:
+Here is a free c compiler available online: https://www.onlinegdb.com/online_c_compiler
 
- ## This Checklist is built from freecodecamp video
+## This Checklist is built from freecodecamp video
  - [ ] variables
  - [ ] Datatypes
  - [ ] printf
