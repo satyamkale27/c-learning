@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void myfunction(char grade[], int age) {
+void myfunction(char grade[], int age) { // passing multiple parameters //
 printf("Hello %s\n.you are %d", grade, age);
 
 }
