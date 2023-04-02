@@ -33,6 +33,10 @@ Here is a free c compiler available online: https://www.onlinegdb.com/online_c_c
  - [ ] pointers
  - [ ] derefrencing pointer
  - [ ] writing and reading files
+
+## Resource(s) to learn C Language:
+1. [W3 Schools](https://www.w3schools.com/c/index.php)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people
