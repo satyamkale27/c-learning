@@ -1,6 +1,6 @@
 # learning c journey
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Online C Compiler:
@@ -47,6 +47,7 @@ Thanks goes to these wonderful people
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/virajp4"><img src="https://avatars.githubusercontent.com/u/122785879?v=4?s=100" width="100px;" alt="Viraj Patel"/><br /><sub><b>Viraj Patel</b></sub></a><br /><a href="#content-virajp4" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/realrohitgurav"><img src="https://avatars.githubusercontent.com/u/110970889?v=4?s=100" width="100px;" alt="Rohit Gurav"/><br /><sub><b>Rohit Gurav</b></sub></a><br /><a href="#tutorial-realrohitgurav" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
 </table>
