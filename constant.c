@@ -5,7 +5,7 @@ int main()
 int num = 5;
 printf("%d\n", num);
 
-num = 8;  // this overwrites the value of nu
+num = 8;  // this overwrites the value of num
 
 printf("%d", num);
 
