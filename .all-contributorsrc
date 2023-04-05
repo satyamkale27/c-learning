@@ -23,6 +23,15 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "DrainGangScholar",
+      "name": "DrainGangScholar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74625589?v=4",
+      "profile": "https://github.com/DrainGangScholar",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
