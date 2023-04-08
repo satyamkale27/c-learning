@@ -32,6 +32,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "b-tao",
+      "name": "Brian Tao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100451809?v=4",
+      "profile": "https://b-tao.github.io/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
