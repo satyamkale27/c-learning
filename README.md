@@ -1,6 +1,6 @@
 # learning c journey
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Online C Compiler:
@@ -49,6 +49,7 @@ Thanks goes to these wonderful people
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/virajp4"><img src="https://avatars.githubusercontent.com/u/122785879?v=4?s=100" width="100px;" alt="Viraj Patel"/><br /><sub><b>Viraj Patel</b></sub></a><br /><a href="#content-virajp4" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/realrohitgurav"><img src="https://avatars.githubusercontent.com/u/110970889?v=4?s=100" width="100px;" alt="Rohit Gurav"/><br /><sub><b>Rohit Gurav</b></sub></a><br /><a href="#tutorial-realrohitgurav" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DrainGangScholar"><img src="https://avatars.githubusercontent.com/u/74625589?v=4?s=100" width="100px;" alt="DrainGangScholar"/><br /><sub><b>DrainGangScholar</b></sub></a><br /><a href="https://github.com/satyamkale27/c-learning/commits?author=DrainGangScholar" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://b-tao.github.io/"><img src="https://avatars.githubusercontent.com/u/100451809?v=4?s=100" width="100px;" alt="Brian Tao"/><br /><sub><b>Brian Tao</b></sub></a><br /><a href="https://github.com/satyamkale27/c-learning/commits?author=b-tao" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
